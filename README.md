@@ -1,2 +1,2 @@
 # lum
-Building blazing fast pubsub and Messaging services
+Building blazing fast PubSub and Messaging services
